@@ -44,14 +44,6 @@
   <img align="center" src="https://github.com/user-attachments/assets/630f8c5f-f6c1-4864-8e02-eeeb8dec5911" alt="Image">
 </p>
 
-<img src="https://raw.githubusercontent.com/C4pivara35/C4pivara35/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <a href="https://open.spotify.com/user/C4pivara">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=C4pivara&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
