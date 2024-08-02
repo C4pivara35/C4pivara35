@@ -23,10 +23,10 @@
 </details>
 
 <!-- Links -->
-[![Twiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white))]()
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 <!-- GithubStats -->
 ![C4pivara35 GitHub stats](https://github-readme-stats.vercel.app/api?username=C4pivara35&show_icons=true&theme=gotham)
@@ -44,8 +44,6 @@
   <img align="center" src="https://github.com/user-attachments/assets/b816b003-0302-47a2-8a66-d1eb961e6035" alt="Image">
 </p>
 
-
-https://github.com/user-attachments/assets/b816b003-0302-47a2-8a66-d1eb961e6035
 
 
 
