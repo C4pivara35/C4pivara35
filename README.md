@@ -33,11 +33,11 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Seaborn Data Visualization]()
-- [Exploratory Data Analysis]()
-- [Interactive Data Visualization]()
-- [Data Querying and Analysis]()
-- [Client Registry System]()
+- [1]()
+- [2]()
+- [3]()
+- [4]()
+- [5]()
 
 <!-- GIF -->
 <p align="left">
