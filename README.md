@@ -41,9 +41,8 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/user-attachments/assets/d8f789cb-30b1-4b21-8c85-cddef7be7750" alt="Video">
+  <img align="center" src="https://github.com/user-attachments/assets/a0818742-5538-4750-a3a9-ece78beba863" alt="Video">
 </p>
-
 
 
 ## 🔥 Skills
