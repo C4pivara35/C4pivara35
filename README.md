@@ -41,8 +41,9 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/user-attachments/assets/a0818742-5538-4750-a3a9-ece78beba863" alt="Video">
+  <img align="center" src="https://github.com/user-attachments/assets/d563936b-23d9-4494-9dfb-30cef542151e" alt="Video">
 </p>
+![munchlax-sleeping-on-the-field-pixel-moewalls-com](https://github.com/user-attachments/assets/d563936b-23d9-4494-9dfb-30cef542151e)
 
 
 ## 🔥 Skills
