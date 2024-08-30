@@ -19,7 +19,7 @@
 
   - 💬 I am 18 years old, currently living in Brazil. I have fluency in English and have experience with Python and i'm studying Web, Database and Java. 
 
-  - ⚡ I enjoy play basketball, as well as watching movies, reading manga, or comics and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
+  - ⚡ I enjoy playing basketball, as well as watching movies, reading manga, or comics and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
 </details>
 
 <!-- Links -->
