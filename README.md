@@ -70,6 +70,6 @@
  <!-- Skills:  I want to learn -->
   <div style="flex-basis: 48%;">
     <h3>I want to learn</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+    <img align="center" alt="Js" height="30" width="40" src="http://rust-lang.org/logos/rust-logo-128x128-blk.png">
 
   </div>
