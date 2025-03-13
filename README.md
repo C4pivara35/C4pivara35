@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Andryus! A Software Engineering student from Brazil.
 
-  -  ⭐ I’m currently studying my 1st year in Software Engineering at PUCPR
+  -  ⭐ I’m currently studying my 2st year in Software Engineering at PUCPR
 
   - ☄️ I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 18 years old, currently living in Brazil. I have fluency in English and have experience with Python and i'm studying Web, Database and Java. 
+  - 💬 I am 19 years old, currently living in Brazil. I have fluency in English and have experience with Python, Web, Database and Java.
 
   - ⚡ I enjoy playing basketball, as well as watching movies, reading manga, or comics and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
 </details>
