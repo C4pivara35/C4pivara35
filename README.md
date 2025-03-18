@@ -55,6 +55,7 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    
   </div>
   
   <!-- Skills: Tools & Frameworks -->
@@ -66,12 +67,13 @@
   <!-- Skills: Learning -->
   <div style="flex-basis: 48%;">
     <h3>Learning</h3>
-    
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   </div>
   
  <!-- Skills:  I want to learn -->
   <div style="flex-basis: 48%;">
     <h3>I want to learn</h3>
-    <img align="center" alt="Js" height="30" width="40" src="http://rust-lang.org/logos/rust-logo-128x128-blk.png">
+    <img align="center" alt="Rust" height="30" width="40" src="http://rust-lang.org/logos/rust-logo-128x128-blk.png">
+    <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 
   </div>
