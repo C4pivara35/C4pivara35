@@ -29,7 +29,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoandryuszolet@gmail.com)
 
 <!-- GithubStats -->
-![C4pivara35 GitHub stats](https://github-readme-stats.vercel.app/api?username=C4pivara35&show_icons=true&theme=gotham)
+![C4pivara35 GitHub stats](https://github-readme-stats.vercel.app/api?username=C4pivara35&show_icons=true&theme=blue-green)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C4pivara35/C4pivara35/output/github-contribution-grid-snake-dark.svg">
