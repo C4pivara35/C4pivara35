@@ -44,8 +44,10 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/user-attachments/assets/630f8c5f-f6c1-4864-8e02-eeeb8dec5911" alt="Image">
+  <img align="center" src="https://github.com/user-attachments/assets/f5b04d12-d20c-494a-ace4-d972001681d7" alt="Image">
 </p>
+
+
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
