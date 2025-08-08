@@ -44,7 +44,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/user-attachments/assets/f5b04d12-d20c-494a-ace4-d972001681d7" alt="Image">
+  <img align="center" src="https://private-user-images.githubusercontent.com/67340846/354684162-630f8c5f-f6c1-4864-8e02-eeeb8dec5911.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ2NTE3ODcsIm5iZiI6MTc1NDY1MTQ4NywicGF0aCI6Ii82NzM0MDg0Ni8zNTQ2ODQxNjItNjMwZjhjNWYtZjZjMS00ODY0LThlMDItZWVlYjhkZWM1OTExLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA4VDExMTEyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc1MzZkYjNmZTRhZWZhNTJiZjU1ODc4NGE5YjEyMTg0MGYwMWRlYWFkMmIxMTA4MDJiMTIwMGNmNTVhNmIyMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eZOq8zxmVdi4bRaR3ZFAvdwm-QdjiQJKmOssVf4gwPY" alt="image">
 </p>
 
 
