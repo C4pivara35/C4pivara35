@@ -39,7 +39,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Web-Site]([https://c4pivara35.github.io/Portifolio](https://portfolio-andryus-zolet.vercel.app/)/)
+- [Web-Site](https://portfolio-andryus-zolet.vercel.app/)
 - [DriveNow](https://github.com/AndryusZolet/DriveNow)
 
 <!-- GIF -->
