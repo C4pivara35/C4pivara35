@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Andryus! A Software Engineering student from Brazil.
 
-  -  ⭐ I’m currently studying my 2st year in Software Engineering at PUCPR
+  -  ⭐ I’m currently studying my 3st year in Software Engineering at PUCPR
 
   - ☄️ I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
@@ -17,31 +17,16 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 19 years old, currently living in Brazil. I have fluency in English and have experience with Python, Web, Database and Java.
+  - 💬 I am 20 years old, currently living in Brazil. I have fluency in English and have experience with Python, Web, Database and Java.
 
   - ⚡ I enjoy playing basketball, as well as watching movies, reading manga, or comics and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
 </details>
 
 <!-- Links -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/andryuszolet" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-
-  <a href="https://discord.gg/SEU_LINK" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-
-  <a href="mailto:contatoandryuszolet@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-
-  <a href="https://www.instagram.com/andryus_zolet/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-</div>
-
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andryuszolet)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andryus_zolet/#)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoandryuszolet@gmail.com)
 
 <!-- GithubStats -->
 ![C4pivara35 GitHub stats](https://github-readme-stats.vercel.app/api?username=C4pivara35&show_icons=true&theme=blue-green)
