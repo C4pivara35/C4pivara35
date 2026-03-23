@@ -32,7 +32,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4pivara35&show_icons=true&theme=blue-green"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4pivara35&theme=blue-green&layout=compact&custom_title=Tecnologias&langs_count=6" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4pivara35&theme=blue-green&layout=compact&custom_title=Skills&langs_count=6" alt="Top Langs" />
 </p>
 
 <p align="center">
