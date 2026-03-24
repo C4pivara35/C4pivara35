@@ -50,7 +50,7 @@
 - [DriveNow](https://github.com/AndryusZolet/DriveNow)
 
 <!-- GIF -->
-<p align="left">
+<p align="center">
   <img align="center" src="https://github.com/user-attachments/assets/f69cbdd1-3863-4576-80cd-20e714465ebb" alt="Image">
 </p>
 
