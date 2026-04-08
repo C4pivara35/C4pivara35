@@ -34,15 +34,8 @@
 
 
 <!-- GithubStats -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4pivara35&show_icons=true&theme=blue-green"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4pivara35&theme=blue-green&layout=compact&custom_title=Most-Used-Languages&langs_count=6" alt="Top Langs" />
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+![C4pivara35's GitHub stats](https://github-readme-stats.vercel.app/api?username=C4pivara35&hide=contribs,prs)
 
 <!-- Portfolio -->
 ## Portfolio:
