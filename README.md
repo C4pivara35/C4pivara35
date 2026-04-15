@@ -42,8 +42,13 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Web-Site](https://portfolio-andryus-zolet.vercel.app/)
-- [DriveNow](https://github.com/AndryusZolet/DriveNow)
+<p align="center">
+  <a href="https://portfolio-andryus-zolet.vercel.app/" target="_blank">Web Site</a>
+  &nbsp; | &nbsp;
+  <a href="https://github.com/AndryusZolet/DriveNow" target="_blank">DriveNow</a>
+  &nbsp; | &nbsp;
+  <a href="https://wheather-app-c4pivas.netlify.app/" target="_blank">Wheather App</a>
+</p>
 
 <!-- GIF -->
 <p align="center">
