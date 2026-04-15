@@ -85,14 +85,14 @@
 ###
   
   <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
+  <div align="left">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
   </div>
   
   <!-- Skills: Learning -->
-  <div style="flex-basis: 48%;">
+  <div align="left">
     <h3>Learning</h3>
     <img align="center" alt="Rust" height="30" width="40" src="http://rust-lang.org/logos/rust-logo-128x128-blk.png">
     <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
