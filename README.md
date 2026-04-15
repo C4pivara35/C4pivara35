@@ -34,8 +34,11 @@
 
 
 <!-- GithubStats -->
-
-![C4pivara35's GitHub stats](https://github-readme-stats.vercel.app/api?username=C4pivara35&hide=contribs,prs)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4pivara35&show_icons=true&theme=dark"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4pivara35&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=6" alt="Top Langs" />
+</p>
 
 <!-- Portfolio -->
 ## Portfolio:
