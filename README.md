@@ -45,7 +45,7 @@
 <p align="center">
   <a href="https://portfolio-andryus-zolet.vercel.app/" target="_blank">Web Site</a>
   &nbsp; | &nbsp;
-  <a href="https://github.com/AndryusZolet/DriveNow" target="_blank">DriveNow</a>
+  <a href="https://github.com/C4pivara35/DriveNow-V2" target="_blank">DriveNow</a>
   &nbsp; | &nbsp;
   <a href="https://wheather-app-c4pivas.netlify.app/" target="_blank">Wheather App</a>
 </p>
